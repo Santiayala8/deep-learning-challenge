@@ -21,5 +21,5 @@
   - Split the preprocessed data into a features array, X, and a target array, y. Use these arrays and the train_test_split function to split the data into training and testing datasets.
   - Scale the training and testing features datasets by creating a StandardScaler instance, fitting it to the training data, then using the transform function.
 
-  - Summary
+  Summary
   - The model was unable to achieve a target predicted accuracy higher than 72.7%. Maybe we shpuld use another classificatrion model 
